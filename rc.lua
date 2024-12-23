@@ -39,8 +39,3 @@ local function setup_awesome()
 end
 
 setup_awesome()
-
-
--- root.buttons(gears.table.join(
---     awful.button({}, 3, function () main_menu:toggle() end)
--- ))
